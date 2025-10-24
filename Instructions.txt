@@ -1,0 +1,33 @@
+Task: Bulk Template Update
+
+Objective: Align all templates with the styling and layout of Newtemplate.html while preserving their original content.
+
+Instructions for Jules:
+
+Reference Template:
+Load Newtemplate.html as the master template for structure, CSS, and inline styles.
+
+Template Update:
+For each other template:
+
+Replace its HTML structure and styling to match Newtemplate.html exactly.
+
+Do not alter any text, images, links, or other content—only adjust structure and styling.
+
+Consistency Checks:
+
+Ensure table widths, padding, margins, and font styles are identical.
+
+Preserve mobile responsiveness: stacking, alignment, and scaling must mirror Newtemplate.html.
+
+Maintain email-safe HTML practices (inline styles, VML if present).
+
+Output:
+
+Generate updated versions of each template, fully aligned with the master template.
+
+Confirm that visual rendering matches Newtemplate.html and all content remains intact.
+
+Completion Signal:
+
+Return a report listing all updated files with a confirmation that layout and styling are matched.
