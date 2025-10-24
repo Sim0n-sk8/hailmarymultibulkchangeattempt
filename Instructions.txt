@@ -31,3 +31,7 @@ Confirm that visual rendering matches Newtemplate.html and all content remains i
 Completion Signal:
 
 Return a report listing all updated files with a confirmation that layout and styling are matched.
+
+Everything from the newtemplate to be added only the text content remains 
+
+Emoji's to match the text and buttons and so on so forth to be included in change
